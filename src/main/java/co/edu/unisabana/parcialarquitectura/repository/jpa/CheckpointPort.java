@@ -1,4 +1,4 @@
-package co.edu.unisabana.parcialarquitectura.repository;
+package co.edu.unisabana.parcialarquitectura.repository.jpa;
 
 import co.edu.unisabana.parcialarquitectura.service.model.Checkin;
 import co.edu.unisabana.parcialarquitectura.service.model.Checkout;

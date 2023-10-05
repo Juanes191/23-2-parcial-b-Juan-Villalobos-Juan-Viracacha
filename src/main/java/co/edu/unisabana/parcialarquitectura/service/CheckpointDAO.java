@@ -1,6 +1,7 @@
-package co.edu.unisabana.parcialarquitectura.repository;
+package co.edu.unisabana.parcialarquitectura.service;
 
 import co.edu.unisabana.parcialarquitectura.repository.entity.CheckpointEntity;
+import co.edu.unisabana.parcialarquitectura.repository.jpa.CheckpointPort;
 import co.edu.unisabana.parcialarquitectura.repository.jpa.CheckpointRepository;
 import co.edu.unisabana.parcialarquitectura.service.model.Checkin;
 import co.edu.unisabana.parcialarquitectura.service.model.Checkout;
